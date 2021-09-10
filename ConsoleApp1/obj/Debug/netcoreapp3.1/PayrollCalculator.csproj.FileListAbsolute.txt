@@ -1,0 +1,13 @@
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PayrollCalculator.exe
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PayrollCalculator.deps.json
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PayrollCalculator.runtimeconfig.json
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PayrollCalculator.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PayrollCalculator.dll
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PayrollCalculator.pdb
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PayrollCalculator.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PayrollCalculator.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PayrollCalculator.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PayrollCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PayrollCalculator.dll
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PayrollCalculator.pdb
+C:\Users\Marcelo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PayrollCalculator.genruntimeconfig.cache
